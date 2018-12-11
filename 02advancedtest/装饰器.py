@@ -37,6 +37,9 @@ def timefun2(func):
 def foo(a, b):
     print(a + b)
 
+from multiprocessing import Process
+
+p = Process(target=foo)
 
 """
 装饰器带有参数，在原有装饰器的基础上，设置外部变量
