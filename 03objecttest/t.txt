@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<title>现在北京时间 在线标准北京时间校对</title>
+<meta name="keywords" content="北京时间,时间校对,时间,现在时间,北京时间校对,标准时间" />
+<meta name="description" content="北京时间现在几点几分几秒？北京时间网告诉你！为您提供现在北京时间校对,农历查询,现在中国标准时间,当前北京时间校准对时等服务。" />
+<meta name="copyright" content="北京时间,beijing-time.org" />
+<link rel="canonical" href="http://www.beijing-time.org/">
+<link rel="stylesheet" href="http://www.beijing-time.org/sj/css/t.css" type="text/css">
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+<script language="Javascript" src="http://www.beijing-time.org/js/cldb1.js"></script>
+<script language="Javascript" src="http://www.beijing-time.org/js/showtime.js"></script>
+<script language="Javascript" src="http://time.beijing-time.org/time.asp"></script>
+<script language="javascript" src="http://www.beijing-time.org/js/tfunc8.js"></script>
+</head>
+<body style=" background:#f6f8f9;">
+<div class="time_chargin  clearfix">
+<script>
+if (screen && screen.width < 376) {
+  document.write('<script type="text/javascript" src="http://www.beijing-time.org/sj/mobitop.js"><\/script>');
+}
+</script>
+<div class="time_vergin">
+<div class="time_divv">
+<p class="time_p"><A href="http://www.beijing-time.org/"><img src="http://www.beijing-time.org/logo.png" title="北京时间"></A></p></div>
+<div class="time_shi3">
+<p><font id=y></font>年<font id=m></font>月<font id=n></font>日<font>星期<span id=w></span></font><font> 农历<span id=nl></font></p>
+</div>
+</div>
+<div class="time_bigwww">
+<h1>现在北京时间</h1>
+<p><font id=hrs></font>:<font id=min></font>:<font id=sec></font></div></p>
+<div class="time_table">
+<div class="teb_b">
+<script>
+if (screen && screen.width > 375) {
+  document.write('<div class="guanggao"><script type="text/javascript" src="http://www.beijing-time.org/sj/world.js"><\/script></div>');
+}
+</script>
+<div class="contry_boc">
+<ul>
+<li><a href="http://www.beijing-time.org/US/" title="美国时间">美国时间</a></li>
+<li><a href="http://www.beijing-time.org/UK/" title="英国时间">英国时间</a></li>
+<li><a href="http://www.beijing-time.org/Canada/" title="加拿大时间">加拿大时间</a></li>
+<li><a href="http://www.beijing-time.org/Germany/" title="德国时间">德国时间</a></li>
+<li><a href="http://www.beijing-time.org/France/" title="法国时间">法国时间</a></li>
+<li><a href="http://www.beijing-time.org/Australia/" title="澳大利亚时间">澳大利亚时间</a></li>
+<li><a href="http://www.beijing-time.org/Italy/" title="意大利时间">意大利时间</a></li>
+<li><a href="http://www.beijing-time.org/Spain/" title="西班牙时间">西班牙时间</a></li>
+<li><a href="http://www.beijing-time.org/Japan/" title="日本时间">日本时间</a></li>
+<li><a href="http://www.beijing-time.org/NewZealand/" title="新西兰时间">新西兰时间</a></li>
+<li><a href="http://www.beijing-time.org/Russia/" title="俄罗斯时间">俄罗斯时间</a></li>
+</ul>
+</div>
+<table width="100%" class="datalist" border="1" style="border-collapse:collapse;"><tr>
+<th style="width:25%" class="tbox">地区</th>
+<th>中国 北京 Beijing</th>
+</tr>
+<tr>
+<th style="width:25%" class="tbox">时区</th>
+<th>UTC/GMT +8.00 (东八区)</th>
+</tr>
+<tr>
+<th style="width:25%" class="tboxxia">关于北京时间</th>
+<th class="tboxxia">北京时间又称中国标准时间。<br />比格林尼治时间(Greenwich Mean Time简称GMT)早8小时。<br />北京时间是由位于陕西西安的中国国家授时中心计算得出。</th>
+</tr>
+<tr>
+</table>
+</div>
+<div class="contry_boc">
+<ul>
+<li><a href="http://www.beijing-time.org/jb.html" title="时间万年历">时间万年历</a></li>
+<li><a href="http://www.beijing-time.org/worldtime.htm" title="世界时间">世界时间</a></li>
+<li><a href="http://www.beijing-time.org/riqi.htm" title="日期计算">日期计算</a></li>
+<li><a href="http://www.beijing-time.org/nongli/" title="农历转换">农历转换</a></li>
+<li><a href="http://www.beijing-time.org/shijianchuo/" title="时间戳">时间戳</a></li>
+<li><a href="http://www.beijing-time.org/shengming/" title="活了多久">活了多久</a></li>
+</ul>
+</div>
+<div class="time_about" style=" width:95% !important; overflow:hidden; margin-top:15px;">
+<p>由于网络传输原因，现在北京时间校对显示秒钟有毫秒级误差；点击这里进入旧版<a href="http://www.beijing-time.org/jb.html">中国时间</a>，此版本秒级闹钟可选择自选音乐作为闹铃；点击日历可写入日程安排和查询农历。 </p>
+</div>
+</div>
+</div></div>
+<div class="guanggao"><script language="JavaScript" type="text/javascript" src="http://www.beijing-time.org/sj/world2.js"></script></div>
+<div class="contry_right">
+<div class="contry_bar">
+<div class="contry_hx">
+<h2>世界国家时间热门查询</h2>
+</div>
+<div class="contry_boc">
+<ul>
+<li><a href="http://www.beijing-time.org/LosAngeles/" title="洛杉矶时间">洛杉矶时间</a></li>
+<li><a href="http://www.beijing-time.org/London/" title="伦敦时间">伦敦时间</a></li>
+<li><a href="http://www.beijing-time.org/Vancouver/" title="温哥华时间">温哥华时间</a></li>
+<li><a href="http://www.beijing-time.org/NewYork/" title="纽约时间">纽约时间</a></li>
+<li><a href="http://www.beijing-time.org/Prague/" title="布拉格时间">布拉格时间</a></li>
+<li><a href="http://www.beijing-time.org/Thailand/" title="泰国时间">泰国时间</a></li>
+<li><a href="http://www.beijing-time.org/Brazil/" title="巴西时间">巴西时间</a></li>
+<li><a href="http://www.beijing-time.org/Paris/" title="巴黎时间">巴黎时间</a></li>
+<li><a href="http://www.beijing-time.org/SouthAfrica/" title="南非时间">南非时间</a></li>
+<li><a href="http://www.beijing-time.org/PST/" title="太平洋时间">太平洋时间</a></li>
+<li><a href="http://www.beijing-time.org/SanFrancisco/" title="旧金山时间">旧金山时间</a></li>
+<li><a href="http://www.beijing-time.org/Dubai/" title="迪拜时间">迪拜时间</a></li>
+<li><a href="http://www.beijing-time.org/India/" title="印度时间">印度时间</a></li>
+<li><a href="http://www.beijing-time.org/Turkey/" title="土耳其时间">土耳其时间</a></li>
+<li><a href="http://www.beijing-time.org/Seattle/" title="西雅图时间">西雅图时间</a></li>
+<li><a href="http://www.beijing-time.org/Moscow/" title="莫斯科时间">莫斯科时间</a></li>
+<li><a href="http://www.beijing-time.org/Korea/" title="韩国时间">韩国时间</a></li>
+<li><a href="http://www.beijing-time.org/Toronto/" title="多伦多时间">多伦多时间</a></li>
+<li><a href="http://www.beijing-time.org/Sydney/" title="悉尼时间">悉尼时间</a></li>
+</ul>
+<div class="contry_hx">
+<h4>友情链接</h4>
+</div>
+<div class="contry_boc">
+<ul>
+<li><a href="http://www.aies.cn/" title="繁体字转换">繁体字转换</a></li>
+<li><a href="http://jiemeng.aies.cn/" title="周公解梦">周公解梦</a></li>
+<li><a href="http://zidian.aies.cn/" title="新华字典">新华字典</a></li>
+<li><a href="http://www.usd-cny.com/" title="外汇汇率">外汇汇率</a></li>
+<li><a href="http://cidian.aies.cn/" title="汉语词典">汉语词典</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script>
+writeday();Draw()
+</script>
+<div class="footer_two">
+<P><a href="http://www.beijing-time.org">北京时间网</a> 自2008年起，为网友提供当前世界各国标准时间校准和时间查询对时服务至现在</P>
+</div>
+<script language="javascript" type="text/javascript" src="t.js"></script>
+</body>
+</html>
+1736
